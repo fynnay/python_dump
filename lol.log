@@ -1,0 +1,88 @@
+2016-10-29 22:38:32,721 - logging_howto - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:38:32,722 - logging_howto - INFO - info
+2016-10-29 22:38:32,722 - logging_howto - WARNING - warning
+2016-10-29 22:38:32,722 - logging_howto - ERROR - error
+2016-10-29 22:38:32,722 - logging_howto - CRITICAL - critical
+2016-10-29 22:38:37,802 - logging_howto - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:38:37,802 - logging_howto - INFO - info
+2016-10-29 22:38:37,802 - logging_howto - WARNING - warning
+2016-10-29 22:38:37,802 - logging_howto - ERROR - error
+2016-10-29 22:38:37,802 - logging_howto - CRITICAL - critical
+2016-10-29 22:38:37,803 - logging_howto - ERROR - exception
+None
+2016-10-29 22:38:50,756 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:38:50,757 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - INFO - info
+2016-10-29 22:38:50,757 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - WARNING - warning
+2016-10-29 22:38:50,757 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - ERROR - error
+2016-10-29 22:38:50,757 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - CRITICAL - critical
+2016-10-29 22:38:50,757 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - ERROR - exception
+None
+2016-10-29 22:39:03,427 - __main__ - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:39:03,427 - __main__ - INFO - info
+2016-10-29 22:39:03,427 - __main__ - WARNING - warning
+2016-10-29 22:39:03,427 - __main__ - ERROR - error
+2016-10-29 22:39:03,427 - __main__ - CRITICAL - critical
+2016-10-29 22:39:03,427 - __main__ - ERROR - exception
+None
+2016-10-29 22:39:21,382 - __main__ - ERROR - exception
+None
+2016-10-29 22:39:37,595 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:39:37,595 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - INFO - info
+2016-10-29 22:39:37,595 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - WARNING - warning
+2016-10-29 22:39:37,595 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - ERROR - error
+2016-10-29 22:39:37,595 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - CRITICAL - critical
+2016-10-29 22:39:37,595 - /Volumes/Verbinski/02_SCRIPTING/GitHub/fynnay/python_dump/logging_howto.py - ERROR - exception
+None
+2016-10-29 22:40:19,474 - logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:40:19,474 - logging_howto.py - INFO - info
+2016-10-29 22:40:19,474 - logging_howto.py - WARNING - warning
+2016-10-29 22:40:19,474 - logging_howto.py - ERROR - error
+2016-10-29 22:40:19,474 - logging_howto.py - CRITICAL - critical
+2016-10-29 22:40:19,474 - logging_howto.py - ERROR - exception
+None
+2016-10-29 22:40:31,353 - logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:40:32,354 - logging_howto.py - INFO - info
+2016-10-29 22:40:32,354 - logging_howto.py - WARNING - warning
+2016-10-29 22:40:32,354 - logging_howto.py - ERROR - error
+2016-10-29 22:40:32,354 - logging_howto.py - CRITICAL - critical
+2016-10-29 22:40:32,354 - logging_howto.py - ERROR - exception
+None
+2016-10-29 22:40:45,074 - logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:40:45,075 - logging_howto.py - INFO - info
+2016-10-29 22:40:45,075 - logging_howto.py - WARNING - warning
+2016-10-29 22:40:45,075 - logging_howto.py - ERROR - error
+2016-10-29 22:40:45,075 - logging_howto.py - CRITICAL - critical
+2016-10-29 22:40:45,075 - logging_howto.py - ERROR - exception
+None
+2016-10-29 22:40:46,894 - logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:40:47,896 - logging_howto.py - INFO - info
+2016-10-29 22:40:47,897 - logging_howto.py - WARNING - warning
+2016-10-29 22:40:47,897 - logging_howto.py - ERROR - error
+2016-10-29 22:40:47,897 - logging_howto.py - CRITICAL - critical
+2016-10-29 22:40:47,897 - logging_howto.py - ERROR - exception
+None
+2016-10-29 22:40:54,965 - logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:40:58,967 - logging_howto.py - INFO - info
+2016-10-29 22:40:58,967 - logging_howto.py - WARNING - warning
+2016-10-29 22:40:58,968 - logging_howto.py - ERROR - error
+2016-10-29 22:40:58,968 - logging_howto.py - CRITICAL - critical
+2016-10-29 22:40:58,968 - logging_howto.py - ERROR - exception
+None
+2016-10-29 22:41:05,484 - logging_howto.py - DEBUG - Houston, we have a thorny problem
+None
+2016-10-29 22:41:05,485 - logging_howto.py - INFO - info
+2016-10-29 22:41:05,485 - logging_howto.py - WARNING - warning
+2016-10-29 22:41:05,485 - logging_howto.py - ERROR - error
+2016-10-29 22:41:05,485 - logging_howto.py - CRITICAL - critical
+2016-10-29 22:41:05,485 - logging_howto.py - ERROR - exception
+None
