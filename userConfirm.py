@@ -31,6 +31,9 @@ def confirm(inpMsg=None,GUI=False):
             return
 
 def authenticate():
+    '''
+    Present simple math problem. Only continue if answer is correct.
+    '''
     accessGranted = False
     while accessGranted is False:
         n1 = randint(1,10)
